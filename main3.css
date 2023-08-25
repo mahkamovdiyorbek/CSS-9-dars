@@ -1,0 +1,46 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.form-group{
+    width: 900px;
+    padding: 10px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+input{
+    width: 35%;
+    padding: 0.6rem 1.5rem;
+    margin: 15px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.yozuv{
+    width: 900px;
+    margin: 0 auto;
+    border-top: 1px solid black;
+    position: absolute;
+    top: 90px;
+    left: 255px;
+}
+
+.yozuv2{
+    position: absolute;
+    top: 256px;
+    left: 659px;
+}
+
+.yozuv3{
+    position: absolute;
+    top: 414px;
+    /*left: 760px;*/
+}

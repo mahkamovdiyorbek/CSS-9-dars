@@ -1,0 +1,122 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.form-group{
+    width: 550px;
+    height: 800px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+input{
+    width: 40%;
+    padding: 0.6rem 1.5rem;
+    margin: 15px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+input[type=email]{
+    width: 86%;
+}
+
+input[type=password]{
+    width: 86%;
+}
+
+select{
+    width: 25%;
+    padding: 0.5rem 1.5rem;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+input[type=radio]{
+    margin-left: -130px;
+}
+
+label[for=Женщина]{
+    width: 25%;
+    padding: 0.5rem 1.5rem;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+    /*margin-left: 0px;*/
+}
+
+label[for=Мужчина]{
+    width: 25%;
+    padding: 0.5rem 1.5rem;
+    margin: 5px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin-left: -79px;
+}
+
+label[for=Другое]{
+    width: 25%;
+    padding: 0.5rem 1.5rem;
+    margin: 5px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin-left: -80px;
+}
+
+
+.yozuv{
+    width: 550px;
+    margin: 0 auto;
+    border-top: 1px solid darkgrey;
+    position: absolute;
+    top: 125px;
+    left: 254px;
+}
+
+
+.yozuv2{
+    position: absolute;
+    top: 145px;
+    left: 605px;
+}
+
+.yozuv3{
+    position: absolute;
+    top: 70px;
+}
+
+.yozuv6{
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    top: 650px;
+    left: 380px;
+    border: 1px solid limegreen;
+    border-radius: 15px;
+    background-color: limegreen;
+    color: white;
+    text-align: center;
+}
+
+.rasm{
+    position: absolute;
+    top: 50px;
+    left: 770px;
+}

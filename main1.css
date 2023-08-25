@@ -1,0 +1,92 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.form-group{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+input{
+    width: 45%;
+    padding: 0.6rem 1.5rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-align: center;
+    background-color: #cccccc;
+}
+
+input[type=number]{
+    margin-left: 200px;
+}
+
+input[type=submit]{
+    width: 200px;
+    display: block;
+    margin: 20px auto;
+    background-color: darkgoldenrod;
+    color: #ffffff;
+    position: absolute;
+    top: 380px;
+    left: 655px;
+}
+
+input[type=checkbox]{
+    margin-left: 75px;
+    margin-top: 41px;
+}
+
+.yozuv{
+    position: absolute;
+    top: 335px;
+    left: 640px;
+    color: white;
+}
+
+.yozuv1{
+    position: absolute;
+    top: 335px;
+    left: 730px;
+    color: white;
+    text-decoration: underline;
+}
+
+.yozuv2{
+    position: absolute;
+    top: 450px;
+    left: 620px;
+    color: white;
+}
+
+.yozuv3{
+    position: absolute;
+    top: 450px;
+    left: 810px;
+    color: white;
+    text-decoration: underline;
+}
+
+.yozuv4{
+    position: absolute;
+    top: 510px;
+    left: 650px;
+    color: white;
+}
+
+.yozuv5{
+    position: absolute;
+    top: 0;
+    left: 700px;
+    color: white;
+}
